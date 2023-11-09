@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Конвертор валют з UAH в EUR</string>
+    <string name="fromCurrencyValue">Введіть значення, яке необхідно конвертувати</string>
+    <string name="convertResult">Результат конвертації</string>
+    <string name="convertButton">Конвертувати</string>
+    <string name="currentExchangeValue">Поточний курс обміну:</string>
+</resources>
